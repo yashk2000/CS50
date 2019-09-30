@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
-
+//decoding caeser cipher
 int main(int argc, char *argv[])
 {
     if(argc==2)
